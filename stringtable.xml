@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Fields_of_Thunder">
+
+	<Key ID="STR_TB_missionTitle_TB_Fields_of_Thunder">
+		<Original>Dolores</Original>
+		<English>Dolores</English>
+		<German>Dolores</German>
+		<Italian>Dolores</Italian>
+		<Spanish>Dolores</Spanish>
+		<French>Dolores</French>
+		<Czech>Dolores</Czech>
+		<Russian>Dolores</Russian>
+		<Polish>Dolores</Polish>
+		<Hungarian>Dolores</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Fields_of_Thunder">
+		<Original>TacBF A&amp;S[T-10]: Dolores</Original>
+		<English>TacBF A&amp;S[T-10]: Dolores</English>
+		<German>TacBF A&amp;S[T-10]: Dolores</German>
+		<Italian>TacBF A&amp;S[T-10]: Dolores</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Dolores</Spanish>
+		<French>TacBF A&amp;S[T-10]: Dolores</French>
+		<Czech>TacBF A&amp;S[T-10]: Dolores</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Dolores</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Dolores</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Dolores</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
